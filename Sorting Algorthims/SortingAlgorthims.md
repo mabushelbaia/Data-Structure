@@ -2,7 +2,7 @@
 
 **illustation**: https://youtu.be/nmhjrI-aW5o
 
-**Complexity**: O(n^2)
+> **Complexity**: O(n^2)
 
 Sorting Elements by repeatedly swapping the adjacent elements if they are in wrong order.
 
@@ -32,7 +32,7 @@ void BubbleSort(int arr[]){
 
 **Algorithmic Paradigm:** Divide and Conquer
 
-**Complexity**: O(n*log(n))
+> **Complexity**: O(n*log(n))
 
 Sorting arrays on different machines. Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation.   
 
