@@ -6,11 +6,15 @@ struct Node {
   int val;
   struct Node* next;
 };
+
+
 int isEmpty(struct Node* L);
 void printList(struct Node* L);
 void sortedList(struct Node* head, int size);
 void deleteNode(struct Node* head, int key);
 struct Node* findPrevious(struct Node* head, int key);
+
+
 int main(){
   struct Node* head;
   head = (struct Node*)malloc(sizeof(struct Node*));
@@ -37,9 +41,6 @@ void deleteNode(struct Node* head, int key){
 }
 
 
-
-
-
 struct Node* findPrevious(struct Node* head, int key){
     struct Node* p = head;
     struct Node* q = p->next;
@@ -50,12 +51,6 @@ struct Node* findPrevious(struct Node* head, int key){
     }
     return q==NULL?NULL: p;
 }
-
-
-
-
-
-
 
 
 void sortedList(struct Node* head,int size){
@@ -70,9 +65,12 @@ void sortedList(struct Node* head,int size){
   }
 }
 
+
 int isEmpty(struct Node* L){
   return L->next == NULL;
 }
+
+
 void printList(struct Node* L){ // prints only int-type Nodes
   if(!isEmpty(L)){
     struct Node* p = L->next;
