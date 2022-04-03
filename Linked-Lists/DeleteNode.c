@@ -30,7 +30,6 @@ int main(){
 void deleteNode(struct Node* head, int key){
   if(isEmpty(head)) return;
   struct Node* previous = findPrevious(head, key);
-  printf("%d\n",previous->val);
   if(previous == NULL) return;
   struct Node* dNode = previous->next;
   previous->next = dNode-> next;
