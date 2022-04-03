@@ -1,5 +1,5 @@
 # Data Structure & Algorthims
 
-An implementaion of common data-structure concepts (linkedLists, Queues, ...) in C language, and some algorthims implementation as well.
+An implementaion of common data-structure concepts and some algorthims in C or C++.
 
 
