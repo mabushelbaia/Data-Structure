@@ -1,0 +1,3 @@
+/home/mabushelbaia/Local-Disk/Projects/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/Project_2.dir
+/home/mabushelbaia/Local-Disk/Projects/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mabushelbaia/Local-Disk/Projects/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

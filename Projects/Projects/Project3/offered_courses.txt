@@ -1,0 +1,41 @@
+SIGNALS AI:9#ENEE5985#Electrical Engineering/Python Script
+Digital Systems DATA:5#COMP2579#Computer Science/topic = random.choice(topics)
+JAVA PYTHON:3#COMP2315#Computer Science/30 lines
+ELECTRONICS DJANGO:6#COMP3610#Computer Science/Time Complexity
+DJANGO DJANGO:3#ENEE2301#Electrical Engineering/topic = random.choice(topics)
+Circuit Analysis C:3#ENEE3307#Electrical Engineering/this is a topic
+PROGRAMMING Introduction:4#ENEE3460#Electrical Engineering/30 lines
+NETWORKS Circuit Analysis:5#COMP3599#Computer Science/Some Random topic
+R Digital Systems:9#ENEE2941#Electrical Engineering/this is a topic
+PYTHON Digital Systems:4#COMP3410#Computer Science/Time Complexity
+DATA ELECTRONICS:5#COMP5535#Computer Science/Python Script
+OS DJANGO:9#COMP5976#Computer Science/Time Complexity
+Introduction Introduction:1#COMP2153#Computer Science/topic = random.choice(topics)
+C PYTHON:9#ENEE4921#Electrical Engineering/Python Script
+OS Circuit Analysis:3#COMP3317#Computer Science/this is a topic
+STABLE Introduction:2#ENEE2227#Electrical Engineering/Python Script
+Circuit Analysis R:2#ENEE5262#Electrical Engineering/this is a topic
+STABLE R:0#ENEE4081#Electrical Engineering/Python Script
+PROGRAMMING Introduction:3#ENEE4397#Electrical Engineering/topic = random.choice(topics)
+Digital Systems OS:1#COMP5190#Computer Science/30 lines
+R Digital Systems:0#ENEE4048#Electrical Engineering/this is a topic
+Introduction Introduction:8#ENEE4852#Electrical Engineering/Why are you looking here?
+SIGNALS Introduction:6#ENEE3656#Electrical Engineering/this is a topic
+Digital Systems AI:5#COMP4503#Computer Science/this is a topic
+Digital Systems C:7#COMP4729#Computer Science/Python Script
+SIGNALS Introduction:6#ENEE4628#Electrical Engineering/30 lines
+OS JAVA:2#COMP3211#Computer Science/Python Script
+Circuit Analysis C:2#ENEE2261#Electrical Engineering/Why are you looking here?
+DATA Circuit Analysis:9#COMP3991#Computer Science/topic = random.choice(topics)
+Introduction Introduction:2#COMP3267#Computer Science/Some Random topic
+JAVA Flask:6#COMP4614#Computer Science/30 lines
+C Flask:3#ENEE5376#Electrical Engineering/this is a topic
+JAVA SIGNALS:4#COMP4452#Computer Science/this is a topic
+Flask Flask:5#COMP4505#Computer Science/Python Script
+STABLE DATA:2#ENEE2220#Electrical Engineering/Time Complexity
+Flask Flask:5#COMP5514#Computer Science/Some Random topic
+STABLE PYTHON:0#ENEE3084#Electrical Engineering/topic = random.choice(topics)
+PYTHON STABLE:5#COMP5585#Computer Science/Python Script
+PROGRAMMING NETWORKS:0#ENEE2023#Electrical Engineering/Some Random topic
+PYTHON PROGRAMMING:3#COMP3329#Computer Science/topic = random.choice(topics)
+PYTHON NETWORKS:1#COMP4158#Computer Science/Why are you looking here?

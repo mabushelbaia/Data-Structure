@@ -1,0 +1,3 @@
+
+From         -> To           : Distance | PATH
+Ramallah     -> Akka         :   241    |     Ramallah      ->     38     ->       Salfit      ->     53     ->     Tulkarem      ->     57     ->        Haifa      ->     60     ->     Nazareth      ->     33     ->         Akka     
