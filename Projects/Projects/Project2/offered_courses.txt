@@ -1,3 +1,0 @@
-Circuit Analysis:8#ENEE2865#Electrical Engineering/30 lines
-Circuit Analysis:1#ENEE4157#Electrical Engineering/30 lines
-Circuit Analysis:8#ENEE5801#Electrical Engineering/topic = random.choice(topics)
